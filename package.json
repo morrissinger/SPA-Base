@@ -1,5 +1,5 @@
 {
-  "name": "SPA Base",
+  "name": "SPABase",
   "version": "1.0.0",
   "description": "A base configuration for quickly building single page applications, with Grunt, Livereload, and Jekyll",
   "main": "index.js",
